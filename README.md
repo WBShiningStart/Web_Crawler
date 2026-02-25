@@ -9,3 +9,5 @@
 ##### 技术要点：requests + BeautifulSoup + 正则表达式
 
 ##### 学习重点：网页结构分析、数据提取、文件保存
+
+##### 指路项目文件：Douban_Movie_Top_250_Scraper.py
